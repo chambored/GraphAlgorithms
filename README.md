@@ -1,4 +1,4 @@
-# GraphAlgorithms
+# Graph Algorithms
      -Floyd-Warshall Algorithm
      -Djikstra's Algorithm
      -Bellman-Ford Algorithm
